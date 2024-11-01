@@ -1,5 +1,11 @@
 # jeu-du-debat
 
+## Repo déplacé
+
+Ce projet a été déplacé dans <https://github.com/Seboran/monorepo>
+
+## Intro
+
 Vous pouvez jouer ici : <https://seboran.github.io/jeu-du-debat/>
 
 ## Project Setup
